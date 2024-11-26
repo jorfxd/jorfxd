@@ -24,11 +24,15 @@ Saludos internautas, Este es un Markdown personal en donde podran encontrar mas 
 * **Curriculim Vitae:** Una pagina Web de mi curriculim, en esta se puede observar mis aspiraciones, habilidades y conocimientos.
 Tecnologias y Herramientas: Html, Css.
 Proyecto: <u>[Pagina Curriculum de JAAM](https://jorfxd.github.io/curriculum/) </u>
+
 <br>
+
 * **Distrubuidor de ferias:** Un programa de orgnazacion de ferias que utiliza Porgramacion orientada a objetos para realizar las diferentes tareas que conlleva organizar ferias como: ingresar, ordenar por fehcas, eliminar,establecer fechas limites y requerimientos variados.
 Tecnologias y Herramientas: POO, Netbeans, Scene builder.
 Proyecto: <u>[Ferias repositorio](https://github.com/alvarocabr/Proyecto-POO-P3-G05) </u>
+
 <br>
+
 * **Juegos de preguntas:** Un aplicativo diseñado con Porgramacion orientada a objetos e implementando diferentes tipos de estructura de datos como arboles y pilas. El aplicativo es un juego de adivinanza de animales con archivos creados por el propio usuario.
 Tecnologias y Herramientas: POO, Netbeans, Scene builder.
 Proyecto: <u>[Repositorio de Juego de preguntas](https://github.com/jorfxd/ED_P1_Grupo12_Parcial2) </u>
@@ -45,7 +49,7 @@ Proyecto: <u>[Repositorio de Juego de preguntas](https://github.com/jorfxd/ED_P1
 Poseo conocimientos en herramientas fundamentales para la creación de páginas web, incluyendo HTML, CSS y JavaScript, con experiencia complementaria en el uso de frameworks modernos como React para el desarrollo de interfaces de usuario dinámicas y Node.js para la creación de aplicaciones del lado del servidor.
 
 ## Intereses
-* Musica-Gereneros: Pop, Rap, Rock, Salsa.
+* Musica-Gereneros: Pop, Rap, Rock, Salsa. [link de mi playlist](https://open.spotify.com/playlist/2oFbo8KjLPOGLuAdxmK7Mz?si=dbe80858d8e44d09)
 * Natacion
 * Boxeo
 * Programacion: Creacion de Paginas.
